@@ -15,4 +15,5 @@ for training and 582 189 for testing classified into 8 classes:
 Points contain RGB values as well as number of returns, return number and intensity.
 
 2 available datasets: training data and test data. Both stored in .las format.
- 
+- Training data: https://drive.google.com/file/d/1D1OFwOwICekxuwRV0iz-VTUWEGtdQudF/view?usp=sharing
+- Test data: https://drive.google.com/file/d/1n2Mn8YsdWfSDeX_OYf99T716U3fNv7MA/view?usp=sharing
