@@ -21,3 +21,15 @@ The data set is classified into 8 classes.
 Classes can be organized hierarchicaly enabling different applications and combination with existing datasets:
 <img width="500" height="350" alt="UNSgeo" src="https://github.com/user-attachments/assets/07ba82ac-dd3a-4711-8046-b042e5e9f74c" />
 
+If you use the UNS Geo dataset in your research, please cite the following paper:
+
+@inproceedings{govedarica2025unsgeo,
+  author    = {Govedarica, M. and Jakovljevic, G. and Ruskoviski, I. and Pajic, V.},
+  title     = {UNS Geo: LiDAR Dataset for Point Cloud Classification in Urban Areas},
+  booktitle = {International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume    = {XLVIII-4/W13-2025},
+  pages     = {135--141},
+  year      = {2025},
+  doi       = {10.5194/isprs-archives-XLVIII-4-W13-2025-135-2025},
+  url       = {https://doi.org/10.5194/isprs-archives-XLVIII-4-W13-2025-135-2025}
+}
