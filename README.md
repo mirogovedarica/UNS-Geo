@@ -1,8 +1,12 @@
-UNS-Geo dataset
+UNS Geo dataset
 
-Point cloud of urban area of Novi Sad, Serbia. Point cloud consisting of 4 820 426 points
-for training and 582 189 for testing classified into 8 classes: 
+UNS Geo is dense anotated aerial LiDAR point cloud dataset, designed specifically for the classification of complex urban environments. The dataset is focused on the Liman neighborhood in Novi Sad (Serbia), an area representative of Southeast European urban morphology developed during the post–World War II period.
 
+![konačna_karta](https://github.com/user-attachments/assets/26896cac-3632-44ca-bbaa-ba351b7480c3)
+
+The datased consists of 5.4 milion of points separeted to train (4 820 426 points) and test dataset (582 189). Average density is 35 points per squer meter. To each point the following attributes are assigned: XYZ coordinates, Number of return, Return number, Intensity, RGB, Normals XYZ, and Class labele.
+
+The data set is classified into 8 classes. 
 - 1 - ground
 - 2 - road
 - 3 - parking
@@ -12,15 +16,6 @@ for training and 582 189 for testing classified into 8 classes:
 - 7 - tree
 - 8 - car
 
-Points contain RGB values as well as number of returns, return number and intensity.
+Classes can be organized hierarchicaly enabling different applications and combination with existing datasets:
+<img width="3800" height="2023" alt="UNSgeo" src="https://github.com/user-attachments/assets/07ba82ac-dd3a-4711-8046-b042e5e9f74c" />
 
-The part of the city has been scanned using LiDAR platform. Riegl LMS-Q680i laser scanner and digital camera DigiCAM H39 were used along with GPS-IMU navigation system used for georeferencing the data.
-This dataset has been later processed using conventional methods of automatic, semi-automatic and manual classification.
-
-![konačna_karta](https://github.com/user-attachments/assets/26896cac-3632-44ca-bbaa-ba351b7480c3)
-
-Data used in the training phase consists of a point cloud previously manually classified into 5 classes 
-(ground, impervious surfaces consisting of roads, pedestrian lanes and parking, buildings, trees and cars)
-and it consists of ~4.8M points (40 points per square meter). Test dataset consists of ~0.58M points. 
-
-<img width="502" height="181" alt="image" src="https://github.com/user-attachments/assets/7dc08cb7-61ae-47d0-832d-0dfd1dab02b0" />
