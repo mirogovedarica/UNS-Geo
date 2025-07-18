@@ -23,6 +23,7 @@ Classes can be organized hierarchicaly enabling different applications and combi
 
 If you use the UNS Geo dataset in your research, please cite the following paper:
 
+```bibtex
 @inproceedings{govedarica2025unsgeo,
   author    = {Govedarica, M. and Jakovljevic, G. and Ruskoviski, I. and Pajic, V.},
   title     = {UNS Geo: LiDAR Dataset for Point Cloud Classification in Urban Areas},
