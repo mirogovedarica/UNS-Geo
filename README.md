@@ -9,14 +9,9 @@ Figure 1. Study area
 The datased consists of 5.4 milion of points separeted to train (4 820 426 points) and test dataset (582 189). Average density is 35 points per squer meter. To each point the following attributes are assigned: XYZ coordinates, Number of return, Return number, Intensity, RGB, Normals XYZ, and Class labele.
 
 The data set is classified into 8 classes. 
-- 1 - ground
-- 2 - road
-- 3 - parking
-- 4 - pedestrian lane
-- 5 - wall
-- 6 - roof
-- 7 - tree
-- 8 - car
+
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/51aa4a7b-f9b9-46c9-9024-f63145ede36d" />
+
 
 Classes can be organized hierarchicaly enabling different applications and combination with existing datasets:
 <img width="500" height="350" alt="UNSgeo" src="https://github.com/user-attachments/assets/07ba82ac-dd3a-4711-8046-b042e5e9f74c" />
