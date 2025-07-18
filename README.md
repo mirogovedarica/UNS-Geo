@@ -17,5 +17,5 @@ The data set is classified into 8 classes.
 - 8 - car
 
 Classes can be organized hierarchicaly enabling different applications and combination with existing datasets:
-<img width="3800" height="2023" alt="UNSgeo" src="https://github.com/user-attachments/assets/07ba82ac-dd3a-4711-8046-b042e5e9f74c" />
+<img width="1700" height="1023" alt="UNSgeo" src="https://github.com/user-attachments/assets/07ba82ac-dd3a-4711-8046-b042e5e9f74c" />
 
